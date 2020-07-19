@@ -281,7 +281,7 @@ export default {
       splash:
         "http://ddragon.leagueoflegends.com/cdn/img/champion/splash/Amumu_0.jpg",
       blurb:
-        "''La soledad puede ser más solitaria que la muerte''<br><br>Cuenta la leyenda que Amumu es un alma solitaria y melancólica de la antigua Shurima que vaga por el mundo en busca de un amigo. Una antigua maldición lo condenó a permanecer solo por toda la eternidad. Sus caricias son la muerte, su afecto es la ruina. Quienes afirman haberlo visto lo describen como un cadáver viviente de corta estatura envuelto en vendajes. Amumu ha sido la inspiración de mitos, canciones y folclore que se han contado una y otra vez a lo largo de generaciones, tanto que es imposible separar la verdad de la ficción.",
+        "Cuenta la leyenda que Amumu es un alma solitaria y melancólica de la antigua Shurima que vaga por el mundo en busca de un amigo. Una antigua maldición lo condenó a permanecer solo por toda la eternidad. Sus caricias son la muerte, su afecto es la ruina. Quienes afirman haberlo visto lo describen como un cadáver viviente de corta estatura envuelto en vendajes. Amumu ha sido la inspiración de mitos, canciones y folclore que se han contado una y otra vez a lo largo de generaciones, tanto que es imposible separar la verdad de la ficción.",
       info: {
         attack: 2,
         defense: 6,
@@ -7369,7 +7369,7 @@ export default {
         {w:"Aria de la Perseverancia",img:"https://opgg-static.akamaized.net/images/lol/spell/SonaW.png?image=q_auto,w_48&v=1591083841",info:"Sona toca el Aria de la Perseverancia y envía melodías protectoras, lo que cura a Sona y a un aliado cercano herido. Sona obtiene un aura temporal que le otorga a los aliados dentro de la zona un escudo temporal."},
         {e:"Canción de la Celeridad",img:"https://opgg-static.akamaized.net/images/lol/spell/SonaE.png?image=q_auto,w_48&v=1591083841",info:"Sona toca la Canción de la Celeridad y les otorga velocidad de movimiento adicional a los aliados cercanos. Sona obtiene un aura temporal que le otorga velocidad de movimiento adicional a los campeones aliados que entren a la zona."},
         {r:"Crescendo",img:"https://opgg-static.akamaized.net/images/lol/spell/SonaR.png?image=q_auto,w_48&v=1591083841",info:"Sona toca su acorde definitivo para aturdir a campeones enemigos y obligarlos a bailar, lo que les inflige daño mágico. Cada rango reduce el enfriamiento de las habilidades básicas de Sona."}
-     ]}
+     ]
     },
     Soraka: {
       version: "V10.14",
@@ -10051,3 +10051,4 @@ export default {
     ]
     }
   }
+  };

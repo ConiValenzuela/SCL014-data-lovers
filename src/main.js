@@ -26,13 +26,15 @@ function showChampions (){
         let file = document.createElement('section');
         file.setAttribute('class','file');
         champions =
-        `<h1 class='nameFile'> ${dataLol[i].name} </h1>
-        <h3> ${dataLol[i].title} </h3>
+        `<div class='splashSection'><img src='${dataLol[i].splash}'></div>
+        <section id= 'textFile' class='textFile'>
+        <h1> ${(dataLol[i].name).toUpperCase()} </h1>
+        <h3> ${(dataLol[i].title).toUpperCase()} </h3>
+        <h4>${dataLol[i].tags} </h4>
         <p> ${dataLol[i].blurb} </p>
-        <p id='tagsFile'> ${dataLol[i].tags} </p>
-        
-        <img src='${dataLol[i].splash}'>`;
+        </section>`;
         allFiles.appendChild(file);
+        console.log(file)
         file.innerHTML = champions;
 
     };
@@ -40,8 +42,8 @@ function showChampions (){
 showChampions();
 
 // console.log (datos);
-let initList = datos.allCards();
-let finList = [];
+// let initList = datos.allCards();
+// let finList = [];
 // const menuBtn = document.getElementById("buttonEnter");
 // const A_Z = document.getElementById("A_Z");
 // const Z_A = document.getElementById("Z_A");
@@ -67,11 +69,11 @@ let finList = [];
 // }
 
 //<!-------------------------------- ROLE FILTERS ------------------------------------>
-document.getElementById("tankBtn").addEventListener("click", function roleTank() {
-    console.log("holi")
-    finList = initList.filter(champ => champ.tags.includes("Tank"));
-    fillDashboard(finList);
-});
+// document.getElementById("tankBtn").addEventListener("click", function roleTank() {
+//     console.log("holi")
+//     finList = initList.filter(champ => champ.tags.includes("Tank"));
+//     fillDashboard(finList);
+// });
 
 // document.getElementById("assassinBtn").addEventListener("click", function roleAssassin() {
 //     finList = initList.filter(champ => champ.tags.includes("Assassin"));
