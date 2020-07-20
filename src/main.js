@@ -34,7 +34,6 @@ function showChampions (){
         <p> ${dataLol[i].blurb} </p>
         </section>`;
         allFiles.appendChild(file);
-        console.log(file)
         file.innerHTML = champions;
 
     };

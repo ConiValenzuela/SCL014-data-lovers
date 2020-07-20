@@ -12,6 +12,7 @@ Publicamos la encuesta en foros alcanzando a más de 60 usuarios de distintos ju
 Comenzamos con prototipos en papel para sopesar posibles estructuras para la página, luego de esto trabajamos un moodboard colaborativo a través de Invision para procesar referencias visuales, seguir prototipando e ir acercándonos a un wireframe de los componentes que queríamos incluir. 
 
 [Sketch](https://imgur.com/X46Nrge )
+
 [Moodboard](https://constanzavalenzuelaturina885222.invisionapp.com/freehand/Data-lovers-H9Avrb8Do)
 
 ## Testing
@@ -19,3 +20,4 @@ Ya con los primeros prototipos en invision pudimos testear, y de a poco fuimos d
 Decidimos modificar la data disponible para el proyecto, agregando aquellos componentes fundamentales que el usuario reportó estar acostumbrado a disponer. Debido a que aún estamos aprendiendo a modificar la data, no hemos logrado mostrar los elementos planificados; pero nos mantendremos iterando sobre ésta historia de usuario.
 
 ## Conclusión
+Elegimos trabajar con data de League of Legends pues se trata de un juego con gran popularidad, que abarca muchos diferentes niveles dentro de sus usuarios. Nos pareció un desafío interesante intentar llegar a dichos usuarios ofreciendo algo interesante para cada uno, apuntando a formar una página que permita explorar la gran variedad de componentes que el juego ofrece.  Continuaremos iterando nuestro proyecto con este enfoque en mente.

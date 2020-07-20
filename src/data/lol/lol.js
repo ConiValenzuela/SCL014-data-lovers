@@ -9456,7 +9456,7 @@ export default {
       img:
         "https://www.masterypoints.com/assets/img/lol/champion_icons/Yone.png",
       splash:
-        "https://i.redd.it/1njggu2khta51.jpg",
+        "https://imgur.com/KHqOiEw",
       blurb:
         "Todo mito tiene un atisbo de verdad. Un espadachín asesinado debe decidirse entre estar en paz con su pasado, o ser consumido por él.",
       info: {
