@@ -3,7 +3,7 @@
 ## Introducción
 Data lovers ha demostrado ser un proyecto complejo en tanto abarca mayor profundidad respecto de las herramientas que tenemos para solucionar casos de estudio; el código para llegar a una web que muestre y filtre elementos requiere gran habilidad, mientras que las posibilidades respecto del acercamiento al usuario y el diseño de su experiencia podrían ser un proyecto UX en sí mismo.
 
-[Presentación](https://www.canva.com/design/DAECePU9YkU/bK5lRj0rkTHquPsG8WyWdw/view?utm_content=DAECePU9YkU&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
+[Presentación](https://www.canva.com/design/DAECePU9YkU/bK5lRj0rkTHquPsG8WyWdw/view)
 
 ## Research
 Para desarrollar nuestra web, la data que se entrega es estática; una vez decidido el tema debemos saber cómo trabajar con lo que tenemos disponible para encontrar usuarios y problemáticas que podamos apoyar con soluciones reales. Iniciamos nuestra busqueda desarrollando una encuesta con preguntas sencillas pero abiertas, dirigidas a jugadores en general, para saber qué los lleva a ingresar a la web de un juego, qué esperan de la experiencia, qué buscan, etc.
