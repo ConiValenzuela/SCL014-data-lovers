@@ -60,6 +60,7 @@ body{
 .howToPlay{
   background-color: rgba(4, 13, 24, 0.705);
   padding: 0.5rem 8rem 2.5rem;
+  box-shadow: 7px 7px 10px 0px rgba(0,0,0,0.75);
   /* border: solid rgb(174, 145, 75); */
 }
 
@@ -88,7 +89,9 @@ body{
   background-size: 7rem 6rem;
   background-repeat: no-repeat;
   background-position: center;
-  border-radius: 5px;
+  box-shadow: 7px 7px 10px 0px rgba(0,0,0,0.75);
+  border: none;
+  outline: none;
   width: 7rem;
   height: 7rem;
   font-size: 0rem;
@@ -100,6 +103,7 @@ body{
   justify-content: center;
   /* font-family: 'Fugaz One', cursive; */
   font-family: 'Roboto Condensed', sans-serif;
+  border: solid 1px rgb(174, 145, 75);
   color:white;
   font-size: 1.1rem
 }
@@ -109,7 +113,9 @@ body{
   background-size: 7rem 6rem;
   background-repeat: no-repeat;
   background-position: center;
-  border-radius: 5px;
+  box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.75);
+  border: none;
+  outline: none;
   width: 7rem;
   height: 7rem;
   font-size: 0rem;
@@ -121,6 +127,7 @@ body{
   justify-content: center;
   /* font-family: 'Fugaz One', cursive; */
   font-family: 'Roboto Condensed', sans-serif;
+  border: solid 1px rgb(174, 145, 75);
   color:white;
   font-size: 1.1rem
 }
@@ -130,7 +137,9 @@ body{
   background-size: 8rem 6.5rem;
   background-repeat: no-repeat;
   background-position: center;
-  border-radius: 5px;
+  box-shadow: 7px 7px 10px 0px rgba(0,0,0,0.75);
+  border: none;
+  outline: none;
   width: 7rem;
   height: 7rem;
   font-size: 0rem;
@@ -142,6 +151,7 @@ body{
   justify-content: center;
   /* font-family: 'Fugaz One', cursive; */
   font-family: 'Roboto Condensed', sans-serif;
+  border: solid 1px rgb(174, 145, 75);
   color:white;
   font-size: 1.1rem
 }
@@ -152,7 +162,9 @@ body{
   background-repeat: no-repeat;
   background-position: center;
   justify-content: center;
-  border-radius: 5px;
+  box-shadow: 7px 7px 10px 0px rgba(0,0,0,0.75);
+  border: none;
+  outline: none;
   width: 7rem;
   height: 7rem;
   font-size: 0rem;
@@ -164,6 +176,7 @@ body{
   justify-content: center;
   /* font-family: 'Fugaz One', cursive; */
   font-family: 'Roboto Condensed', sans-serif;
+  border: solid 1px rgb(174, 145, 75);
   color:white;
   font-size: 1.1rem
 }
@@ -173,7 +186,9 @@ body{
   background-size: 7rem 5.5rem;
   background-repeat: no-repeat;
   background-position: center;
-  border-radius: 5px;
+  box-shadow: 7px 7px 10px 0px rgba(0,0,0,0.75);
+  border: none;
+  outline: none;
   width: 7rem;
   height: 7rem;
   font-size: 0rem;
@@ -185,6 +200,7 @@ body{
   justify-content: center;
   /* font-family: 'Fugaz One', cursive; */
   font-family: 'Roboto Condensed', sans-serif;
+  border: solid 1px rgb(174, 145, 75);
   color:white;
   font-size: 1.1rem
 }
@@ -195,7 +211,9 @@ body{
   background-size: 7rem 6rem;
   background-repeat: no-repeat;
   background-position: center;
-  border-radius: 5px;
+  box-shadow: 7px 7px 10px 0px rgba(0,0,0,0.75);
+  border: none;
+  outline: none;
   width: 7rem;
   height: 7rem;
   font-size: 0rem;
@@ -207,6 +225,7 @@ body{
   justify-content: center;
   /* font-family: 'Fugaz One', cursive; */
   font-family: 'Roboto Condensed', sans-serif;
+  border: solid 1px rgb(174, 145, 75);
   color:white;
   font-size: 1.1rem
 }
@@ -228,6 +247,7 @@ body{
   margin: 0 10rem 5rem;
   padding: 3rem 0;
   background-color: rgba(4, 13, 24, 0.705);
+  box-shadow: 7px 7px 10px 0px rgba(0,0,0,0.75);
   /* background-image: url(https://i.imgur.com/6GK6izh.png);
   background-repeat: no-repeat;
   background-size: 540px;
